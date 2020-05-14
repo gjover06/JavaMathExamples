@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Author: George Samu
 
 public class JavaMathExamples
 {
